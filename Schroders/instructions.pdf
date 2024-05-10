@@ -1,0 +1,164 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230313111914+00'00')
+/ModDate (D:20230313111914+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5060 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 784.469 Td /F1 12.0 Tf  [(Hello! You have been invited to complete this online challenge as stage 1 of your interview process for the )] TJ ET
+BT 34.016 770.213 Td /F1 12.0 Tf  [(Quantitative Analyst role here at Schroders.)] TJ ET
+BT 34.016 743.957 Td /F2 12.0 Tf  [(Problem Description)] TJ ET
+BT 34.016 717.701 Td /F1 12.0 Tf  [(Please build a one-day-ahead forecasting model for the traded value \(in USD\) for each stock.)] TJ ET
+BT 34.016 691.445 Td /F1 12.0 Tf  [(In order for you to do so, we provide the following five daily data items for a selection of stocks over a 7-)] TJ ET
+BT 34.016 677.189 Td /F1 12.0 Tf  [(year period:)] TJ ET
+0.000 0.000 0.000 RG
+57.816 654.038 m 
+57.816 654.588 57.589 655.134 57.201 655.523 c
+56.812 655.912 56.266 656.138 55.716 656.138 c
+55.166 656.138 54.620 655.912 54.231 655.523 c
+53.842 655.134 53.616 654.588 53.616 654.038 c
+53.616 653.488 53.842 652.942 54.231 652.553 c
+54.620 652.165 55.166 651.938 55.716 651.938 c
+56.266 651.938 56.812 652.165 57.201 652.553 c
+57.589 652.942 57.816 653.488 57.816 654.038 c f
+BT 64.016 650.933 Td /F1 12.0 Tf  [(the closing share )] TJ ET
+BT 147.668 650.933 Td /F2 12.0 Tf  [(price)] TJ ET
+BT 173.660 650.933 Td /F1 12.0 Tf  [( on that day [in local currency])] TJ ET
+57.816 639.782 m 
+57.816 640.332 57.589 640.878 57.201 641.267 c
+56.812 641.656 56.266 641.882 55.716 641.882 c
+55.166 641.882 54.620 641.656 54.231 641.267 c
+53.842 640.878 53.616 640.332 53.616 639.782 c
+53.616 639.232 53.842 638.686 54.231 638.297 c
+54.620 637.909 55.166 637.682 55.716 637.682 c
+56.266 637.682 56.812 637.909 57.201 638.297 c
+57.589 638.686 57.816 639.232 57.816 639.782 c f
+BT 64.016 636.677 Td /F1 12.0 Tf  [(the traded share )] TJ ET
+BT 142.988 636.677 Td /F2 12.0 Tf  [(volume)] TJ ET
+BT 180.320 636.677 Td /F1 12.0 Tf  [( on that day [in millions of shares])] TJ ET
+57.816 625.526 m 
+57.816 626.076 57.589 626.622 57.201 627.011 c
+56.812 627.400 56.266 627.626 55.716 627.626 c
+55.166 627.626 54.620 627.400 54.231 627.011 c
+53.842 626.622 53.616 626.076 53.616 625.526 c
+53.616 624.976 53.842 624.430 54.231 624.041 c
+54.620 623.653 55.166 623.426 55.716 623.426 c
+56.266 623.426 56.812 623.653 57.201 624.041 c
+57.589 624.430 57.816 624.976 57.816 625.526 c f
+BT 64.016 622.421 Td /F1 12.0 Tf  [(the bid-ask )] TJ ET
+BT 120.008 622.421 Td /F2 12.0 Tf  [(spread)] TJ ET
+BT 154.676 622.421 Td /F1 12.0 Tf  [( as measured at the end of that day)] TJ ET
+57.816 611.270 m 
+57.816 611.820 57.589 612.366 57.201 612.755 c
+56.812 613.144 56.266 613.370 55.716 613.370 c
+55.166 613.370 54.620 613.144 54.231 612.755 c
+53.842 612.366 53.616 611.820 53.616 611.270 c
+53.616 610.720 53.842 610.174 54.231 609.785 c
+54.620 609.397 55.166 609.170 55.716 609.170 c
+56.266 609.170 56.812 609.397 57.201 609.785 c
+57.589 610.174 57.816 610.720 57.816 611.270 c f
+BT 64.016 608.165 Td /F1 12.0 Tf  [(a )] TJ ET
+BT 72.344 608.165 Td /F2 12.0 Tf  [(volatility)] TJ ET
+BT 117.680 608.165 Td /F1 12.0 Tf  [( forecast available before the start of trading on that day)] TJ ET
+57.816 597.014 m 
+57.816 597.564 57.589 598.110 57.201 598.499 c
+56.812 598.888 56.266 599.114 55.716 599.114 c
+55.166 599.114 54.620 598.888 54.231 598.499 c
+53.842 598.110 53.616 597.564 53.616 597.014 c
+53.616 596.464 53.842 595.918 54.231 595.529 c
+54.620 595.141 55.166 594.914 55.716 594.914 c
+56.266 594.914 56.812 595.141 57.201 595.529 c
+57.589 595.918 57.816 596.464 57.816 597.014 c f
+BT 64.016 593.909 Td /F1 12.0 Tf  [(a )] TJ ET
+BT 72.344 593.909 Td /F2 12.0 Tf  [(sentiment)] TJ ET
+BT 122.336 593.909 Td /F1 12.0 Tf  [( indicator computed at the end of the day)] TJ ET
+BT 34.016 567.653 Td /F1 12.0 Tf  [(In addition, we provide a mapping table stating the currency code for each stock and a timeseries matrix of )] TJ ET
+BT 34.016 553.397 Td /F1 12.0 Tf  [(corresponding exchange rates to enable you to calculate traded value in USD as follows:)] TJ ET
+BT 34.016 527.141 Td /F1 12.0 Tf  [(traded value [m USD] = traded volume [m shares] x closing price [USD])] TJ ET
+BT 34.016 500.885 Td /F1 12.0 Tf  [(Ideally, we would like you to do the analysis in Python, but we will also consider submissions in R. It is )] TJ ET
+BT 34.016 486.629 Td /F1 12.0 Tf  [(important to demonstrate how you arrive at your solution. Show your workings in as much detail as you see )] TJ ET
+BT 34.016 472.373 Td /F1 12.0 Tf  [(fit \(code, analysis, charts, commentary, etc\). Please compile all of your response material in a zip file and )] TJ ET
+BT 34.016 458.117 Td /F1 12.0 Tf  [(submit within a week.)] TJ ET
+BT 34.016 431.861 Td /F2 12.0 Tf  [(IMPORTANT)] TJ ET
+BT 108.680 431.861 Td /F1 12.0 Tf  [(: There is no need to stay logged into your browser session to complete the challenge. Simply )] TJ ET
+BT 34.016 417.605 Td /F1 12.0 Tf  [(download the instructions and data files and then work locally. Once you are ready to submit your response, )] TJ ET
+BT 34.016 403.349 Td /F1 12.0 Tf  [(log back in and upload your zip file.)] TJ ET
+BT 34.016 377.093 Td /F1 12.0 Tf  [(Good luck!)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000284 00000 n 
+0000000313 00000 n 
+0000000427 00000 n 
+0000000490 00000 n 
+0000005602 00000 n 
+0000005711 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+5819
+%%EOF
